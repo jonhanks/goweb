@@ -1,0 +1,8 @@
+*~
+*.bak
+*.so
+*.dll
+*.lib
+*.a
+*.dylib
+.idea
